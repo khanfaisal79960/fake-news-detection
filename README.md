@@ -11,10 +11,10 @@
 <h2>Project Screenshots:</h2>
 
 <img src="https://i.ibb.co/HdRKCcp/Screenshot-2024-03-08-152706.png" alt="project-screenshot" width="640" height="400/">
-*Caption: Streamlit Demo*
+*Streamlit Demo*
 
 <img src="https://i.ibb.co/njSYdRT/Screenshot-2024-03-08-152912.png" alt="project-screenshot" width="640" height="400/">
-*Caption: Flask Demo*
+*Flask Demo*
   
   
 <h2>🧐 Features</h2>
