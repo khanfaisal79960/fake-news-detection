@@ -88,4 +88,4 @@ Technologies used in the project:
 *   Tensorflow
 *   Joblib
 *   Flask
-*   Streamlti
+*   Streamlit
